@@ -1,0 +1,1 @@
+CREATE INDEX IX_CompanyCode ON MonthlyRevenueData ;
